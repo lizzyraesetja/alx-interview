@@ -1,4 +1,6 @@
- script: Reads standard input line by line and computes metrics
+#!/usr/bin/python3
+"""
+A script: Reads standard input line by line and computes metrics
 """
 
 
